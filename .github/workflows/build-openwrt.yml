@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/Vincent-xiaoyao/lede
+  REPO_URL: https://github.com/Vincent-xiaoyao/openwrt-1
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: Openwrt_X86_64.config
